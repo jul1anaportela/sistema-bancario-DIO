@@ -2,5 +2,5 @@
 desafio do bootcamp formação python developer da DIO
 
 <p align="center">
-  <img alt="imagem do esquema relacional" src="Trilha Python.png">
+  <img alt="imagem do esquema relacional" src="Trilha Python - desafio.png">
 </p>
